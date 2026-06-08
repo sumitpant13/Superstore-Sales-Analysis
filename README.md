@@ -8,11 +8,11 @@ An end-to-end sales analysis project using Python, SQL and Power BI on the Super
 - Power BI — Dashboard & Visualization
 
 ## Project Structure
-- `superstore_cleaning.ipynb` — Data cleaning notebook
-- `superstore_sql_analysis.sql` — SQL analysis queries
-- `superstore_clean.csv` — Cleaned dataset
-- `superstore_dashboard.pbix` — Power BI dashboard file
-- `superstore_dashboard.jpg` — Dashboard screenshot
+- `Superstore Cleaning with Python.ipynb` — Data cleaning notebook
+- `Superstore_SQL_Queries.sql` — SQL analysis queries
+- `Superstore_Clean.csv` — Cleaned dataset
+- `Superstore_Dashboard.pbix` — Power BI dashboard file
+- `Superstore_Dashboard.png` — Dashboard screenshot
 
 ## Dashboard Preview
 ![Dashboard](Superstore_Dashboard.png)
