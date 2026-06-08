@@ -15,7 +15,7 @@ An end-to-end sales analysis project using Python, SQL and Power BI on the Super
 - `superstore_dashboard.jpg` — Dashboard screenshot
 
 ## Dashboard Preview
-![Dashboard](superstore_dashboard.jpg)
+![Dashboard](superstore_dashboard.png)
 
 ## Key Insights
 - Technology is the highest selling category
