@@ -15,7 +15,15 @@ An end-to-end sales analysis project using Python, SQL and Power BI on the Super
 - `Superstore_Dashboard.png` — Dashboard screenshot
 
 ## Dashboard Preview
+
+### Dashboard 1: Sales Analysis Dashboard
+
 ![Dashboard](Superstore_Sales_Analysis_Dashboard.png)
+
+---
+
+### Dashboard 2: Profit Analysis Dashboard
+
 ![Dashboard](Superstore_Profit_Analysis_Dashboard.png)
 
 ## Key Insights
